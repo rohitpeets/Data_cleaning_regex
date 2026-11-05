@@ -1,2 +1,3 @@
 # Data_cleaning_regex
-Learning Regex along with testing different regex functions to process data for PDF into RAG
+
+Regex practice: testing different regex functions for cleaning text extracted from PDFs before it goes into a RAG pipeline.
